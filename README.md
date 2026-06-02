@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Deployed Projects
-[Invoice Generator](https://ameyaac.github.io/invoice-generator/)
+### Deployed Projects
+- [Invoice Generator](https://ameyaac.github.io/invoice-generator/)
 
-Executables
+### Executables
 (Work in progress...)
 
 <!--
