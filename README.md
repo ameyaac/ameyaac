@@ -4,7 +4,7 @@
 - [Invoice Generator](https://ameyaac.github.io/invoice-generator/)
 
 ### Executables
-(Work in progress...)
+- [Fun Boot Screen](https://github.com/ameyaac/fun-boot-screen)
 
 <!--
 **ameyaac/ameyaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
