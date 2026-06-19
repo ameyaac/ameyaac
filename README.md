@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### Deployed Projects
+### Online
 - [Invoice Generator](https://ameyaac.github.io/invoice-generator/)
 
-### Executables
+### Offline
 - [Fun Boot Screen](https://github.com/ameyaac/fun-boot-screen)
 
 <!--
